@@ -1,0 +1,8 @@
+.place__paragraph_margin{
+  margin: 0;
+  margin-bottom: 26px;
+}
+
+.place__paragraph_margin:last-of-type{
+  margin: 0;
+}
