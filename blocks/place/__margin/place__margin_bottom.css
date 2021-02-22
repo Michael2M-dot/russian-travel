@@ -1,5 +1,20 @@
 .place__margin_bottom{
-  margin: 0 0 80px;
+  margin: 0 auto 80px;
 }
 
+.place__margin_bottom:last-of-type{
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__margin_bottom {
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__margin_bottom {
+    margin-bottom: 50px;
+  }
+}
 /* !!попробывать сделать через space-between */

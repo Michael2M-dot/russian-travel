@@ -1,14 +1,6 @@
 .page{
-  font-family: 'Inter', sans-serif;
-  color: white;
-  max-width: 1280px;
-  margin: auto;
-  padding-top: 28px;
+  /* !! органичивает сжатие фона после 320px */
+  max-width: 100vw;
+  min-width: 320px;
   background: #2A2C2F;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
 }

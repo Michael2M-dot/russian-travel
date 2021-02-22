@@ -1,5 +1,9 @@
 .header__section{
-  margin-top:0;
-  margin-left: 48px;
-  margin-bottom: 56px;
+  margin:0 auto 56px;
+}
+
+@media screen and (max-width: 1279px) {
+  .header__section {
+    margin-bottom: 48px;
+  }
 }

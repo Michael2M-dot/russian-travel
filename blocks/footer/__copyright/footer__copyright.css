@@ -2,6 +2,17 @@
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1.14;
+  line-height: 16px;
   text-align: right;
+  margin: 0;
+}
+
+
+@media screen and (max-width: 767px) {
+  .footer__copyright{
+    line-height: 14px;
+    /* !!Сделал отступ 16px чтобы достичь отступа на 48px для того чтобы сделать меню адаптивным в промежутке от 768 до 320
+    !! меню складывается и постпенно выстраивается в колонку!! */
+    margin-top: 16px;
+  }
 }

@@ -2,12 +2,28 @@
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.12;
+  line-height: 18px;
   color: #FFFFFF;
   text-decoration: none;
   transition: opacity .2s ease-in .2s;
+  display: inline-block;
 }
 
 .footer__link:hover{
   opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+    display: block;
+  }
 }

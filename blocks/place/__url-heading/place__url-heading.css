@@ -3,7 +3,11 @@
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
-  line-height: 1.0;
+  line-height: 12px;
   letter-spacing: 0.2em;
   color: #AAAAAA;
 }
+
+/* !!потставил  line-height: 12px; в макете на 1280 и 1024 стоит 20px
+!! но есил посчитать на ширину блока в 46px получается что ссылку выталкивает за пределы блока
+!! и она уходин ниже!!*/

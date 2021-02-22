@@ -1,3 +1,9 @@
 .cover__title_margin{
   margin: 0 auto 32px;
 }
+
+@media screen and (max-width: 767px) {
+  .cover__title_margin {
+    margin-bottom: 16px;
+  }
+}

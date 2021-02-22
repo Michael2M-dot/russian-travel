@@ -1,0 +1,17 @@
+.content__margins_bottom {
+  margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 1023px) {
+  .content__margins_bottom {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content__margins_bottom {
+    margin-bottom: 64px;
+  }
+}
+
+/* !! стандартный отступ для всех секций */
