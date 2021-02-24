@@ -1,11 +1,5 @@
 .places_section{
-  margin: 0 100px 92px;
-}
-
-@media screen and (max-width: 1279px) {
-  .places_section {
-    margin: 0 0 92px;
-  }
+  margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1023px) {
