@@ -30,7 +30,7 @@
 @import url(../blocks/intro/__text/_margins/intro__text_margins.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list/_margins/intro__list_margins.css);
-@import url(../blocks/intro/__list/intro__list_bold.css);
+@import url(../blocks/intro/__text/_bold/intro__text_bold.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo_grid__item.css);
