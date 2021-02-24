@@ -30,11 +30,7 @@
 @import url(../blocks/intro/__text/_margins/intro__text_margins.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list/_margins/intro__list_margins.css);
-<<<<<<< HEAD
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
-=======
-@import url(../blocks/intro/_span-accent/intro_span-accent.css);
->>>>>>> 576c4426789d7b424601617492e49dbc8b2a3069
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo_grid__item.css);
