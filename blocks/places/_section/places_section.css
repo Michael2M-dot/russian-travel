@@ -1,21 +1,21 @@
-.places__section{
+.places_section{
   margin: 0 100px 92px;
 }
 
 @media screen and (max-width: 1279px) {
-  .places__section {
+  .places_section {
     margin: 0 0 92px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .places__section {
+  .places_section {
     margin-bottom: 90px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .places__section {
+  .places_section {
     margin-bottom: 66px;
   }
 }
