@@ -61,7 +61,7 @@
 @import url(../blocks/cover/__subtitle/_margin/cover__subtitle_margin.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__section/footer__section.css);
+@import url(../blocks/footer/_section/footer_section.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__link/_margin/footer__link_margin.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
