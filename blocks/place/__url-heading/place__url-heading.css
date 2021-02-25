@@ -5,6 +5,8 @@
   line-height: 12px;
   letter-spacing: 0.2em;
   color: #AAAAAA;
+  margin:0;
+  margin-bottom: 12px;
 }
 
 /* !!потставил  line-height: 12px; в макете на 1280 и 1024 стоит 20px
