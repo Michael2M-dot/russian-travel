@@ -1,4 +1,4 @@
-.cover__image_margins{
+/* .cover__image_margins{
   margin: 0;
 }
 
@@ -14,7 +14,7 @@
     margin-left: -24px;
     margin-right: -24px;
   }
-}
+} */
 
 @media screen and (max-width: 767px) {
   .cover__image_margins {

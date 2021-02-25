@@ -1,8 +1,7 @@
 .cover__image{
   background-image: url('./../../../images/__cover.png');
-  max-width: 1280px;
-  min-width: 100%;
-  min-height: 740px;
+  width: 100%;
+  /* min-height: 740px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,12 +32,12 @@
 
 @media screen and (max-width: 1279px) {
   .cover__image {
-    width: calc(100% + 48px*2);
-    min-height: 640px;
+    width: 100%;
+    /* min-height: 640px; */
   }
 }
 
-@media screen and (max-width: 1023px) {
+/* @media screen and (max-width: 1023px) {
   .cover__image {
     width: calc(100% + 24px*2);
     min-height: 480px;
@@ -50,4 +49,4 @@
     width: calc(100% + 16px*2);
     min-height: 200px;
   }
-}
+} */
