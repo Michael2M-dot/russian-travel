@@ -13,31 +13,9 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
-/* 
-@media screen and (max-width: 1279px) {
-  .page__container{
-    /* width: calc(100% - 48px*2); */
-    /* width: 100%;
-  }
-} */
-/* 
-@media screen and (max-width: 1023px) {
-  .page__container {
-    width: calc(100% - 24px*2);
-  }
-}
 
 @media screen and (max-width: 767px) {
   .page__container {
-    width: calc(100% - 16px*2);
     padding-top: 16px;
   }
-} */
-
-/* !! ограничивает сжатие контента после 320px и выдает скрол без деформации контента*/
-/* @media screen and (max-width: 319px) {
-  .page__container {
-    min-width: 288px;
-    padding-top: 16px;
-  }
-} */
+}
