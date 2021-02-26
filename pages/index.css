@@ -13,13 +13,14 @@
 @import url(../blocks/content/__section/content__section.css);
 @import url(../blocks/content/__margins/content__margins_bottom.css);
 @import url(../blocks/content/__margins/content__margins_left.css);
-@import url(../blocks/content/__section/_width/content__section_width-1280.css);
-@import url(../blocks/content/__section/_width/content__section_width-1024.css);
 
-/* @import url(../blocks/content/__width/content__width-1280px.css);
+/* @import url(../blocks/content/__section/_width/content__section_width-1280.css);
+@import url(../blocks/content/__section/_width/content__section_width-1024.css); */
+
+@import url(../blocks/content/__width/content__width-1280px.css);
 @import url(../blocks/content/__width/content__width-1024px.css);
 @import url(../blocks/content/__width/content__width-768px.css);
-@import url(../blocks/content/__width/content__width-320px.css); */
+@import url(../blocks/content/__width/content__width-320px.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
