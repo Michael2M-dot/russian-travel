@@ -1,21 +1,21 @@
-.content_margins_left{
+.content__section_margins_left{
   margin-left: 148px;
 }
 
 @media screen and (max-width: 1279px) {
-  .content_margins_left{
+  .content__section_margins_left{
     margin-left: 48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .content_margins_left{
+  .content__section_margins_left{
     margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .content_margins_left{
+  .content__section_margins_left{
     margin-left: 16px;
   }
 }
