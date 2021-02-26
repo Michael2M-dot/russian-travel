@@ -1,6 +1,0 @@
-
-@media screen and (min-width: 1024px) {
-    .content__section_width-1024 {
-      width: calc(100% - 48px*2);
-    }
-  }
