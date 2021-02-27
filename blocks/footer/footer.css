@@ -31,11 +31,3 @@
     align-items: flex-start;
   }
 }
-
-@media screen and (max-width: 320px) {
-  .footer {
-    -webkit-box-align: start;
-    -ms-flex-align: start;
-    align-items: flex-start;
-  }
-}
