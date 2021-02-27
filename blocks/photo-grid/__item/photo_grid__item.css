@@ -1,4 +1,9 @@
 .photo-grid__item{
   width: 100%;
   background-size: cover;
+  transition: box-shadow .4s ease-in-out .2s;
+}
+
+.photo-grid__item:hover{
+  box-shadow: 0 0 25px #989da0;
 }

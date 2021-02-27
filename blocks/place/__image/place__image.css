@@ -1,4 +1,9 @@
 .place__image{
   object-fit: contain;
   width: 100%;
+  transition: transform .5s ease-in .2s;
+}
+
+.place__image:hover{
+  transform: scale(1.03);
 }
