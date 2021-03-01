@@ -1,0 +1,13 @@
+.comments__author{
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 22px;
+  margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .comments__subtitle{
+    font-size: 14px;
+    line-height: 22px;
+  }
+}

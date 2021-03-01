@@ -1,0 +1,14 @@
+.comments__quote-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 1023px) {
+  .comments__quote-section{
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+}

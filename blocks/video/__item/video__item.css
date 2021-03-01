@@ -1,24 +1,26 @@
 .video__item{
   width: calc((100% - 16px)/2);
-  min-height: 323px;
+  max-height: 323px;
   border: 0px;
   margin-right: 16px;
   padding: 0;
   display: flex;
   position: relative;
+  /* opacity: 0.5;
+  background: #000000; */
 }
 
 @media screen and (max-width: 1279px){
   .video__item{
     /* height: 288px; */
-    min-height: 288px;
+    max-height: 288px;
   }
 }
 
 @media screen and (max-width: 1023px){
   .video__item{
     /* height: 200px; */
-    min-height: 200px;
+    max-height: 200px;
   }
 }
 
@@ -38,6 +40,6 @@
 @media screen and (max-width: 374px){
   .video__item{
     width: 100%;
-    min-height: 192px;
+    max-height: 192px;
   }
 }

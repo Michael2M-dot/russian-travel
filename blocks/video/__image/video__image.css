@@ -5,6 +5,8 @@
   background-position: center;
   background-size: cover;
   border-radius: 5px;
+  background: #000000;
+  opacity: 0.5;
 }
 
 /* @media screen and (max-width: 1279px){

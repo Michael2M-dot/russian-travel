@@ -1,0 +1,15 @@
+.comments__cards{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 auto;
+  padding: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .comments__cards{
+    flex-direction: column;
+  }
+}
