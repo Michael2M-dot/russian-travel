@@ -1,5 +1,11 @@
 .content__section_margins_left{
-  margin-left: 148px;
+  margin-left: 228px;
+}
+
+@media screen and (max-width: 1439px) {
+  .content__section_margins_left{
+    margin-left: 148px;
+  }
 }
 
 @media screen and (max-width: 1279px) {
