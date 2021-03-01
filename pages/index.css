@@ -44,6 +44,20 @@
 @import url(../blocks/place/__paragrph/place__paragraph.css);
 @import url(../blocks/place/__abbr/place__abbr.css);
 
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/_margins/video_margins.css);
+@import url(../blocks/video/__content-title/video__content-title.css);
+@import url(../blocks/video/__content-subtitle/video__content-subtitle.css);
+@import url(../blocks/video/__container/video__container.css);
+@import url(../blocks/video/__item/video__item.css);
+@import url(../blocks/video/__image/video__image.css);
+@import url(../blocks/video/__item-conteiner/video__item-container.css);
+@import url(../blocks/pulse/pulse.css);
+@import url(../blocks/video/__icon-play/video__icon-play.css);
+@import url(../blocks/video/__duration/video__duration.css);
+@import url(../blocks/video/__item-title/video__item-title.css);
+@import url(../blocks/video/__item-subtitle/video__item-subtitle.css);
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__image/cover__image.css);

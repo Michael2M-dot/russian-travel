@@ -1,15 +1,15 @@
 .places_margins_bottom{
-  margin-bottom: 92px;
+  margin-bottom: 102px;
 }
 
 @media screen and (max-width: 1023px) {
   .places_margins_bottom{
-    margin-bottom: 90px;
+    margin-bottom: 95px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places_margins_bottom{
-    margin-bottom: 66px;
+    margin-bottom: 64px;
   }
 }

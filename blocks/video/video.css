@@ -1,0 +1,19 @@
+.video{
+  width: calc(100% - 48px*2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 1023px){
+  .video{
+    width: calc(100% - 24px*2);
+  }
+}
+
+@media screen and (max-width: 767px){
+  .video{
+    width:calc(100% - 16px*2);
+  }
+}

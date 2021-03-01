@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Теория/sprint 3/Разработка интерфейсов для разных устройств"
+		},
+		{
+			"path": "../Теория/Анимации и трансформации/Трансформации и плавность переходов/Трансформации и переходы"
+		},
+		{
+			"path": "../how-to-learn"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "russian-travel"
+	}
+}

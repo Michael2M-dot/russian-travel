@@ -1,0 +1,23 @@
+.video__item-container{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  height: calc(100% - 30px*2);
+  margin: 30px;
+}
+
+@media screen and (max-width: 1023px){
+  .video__item-container{
+    height: calc(100% - 24px*2);
+    margin: 24px;
+  }
+}
+
+@media screen and (max-width: 373px){
+  .video__item-container{
+    height: calc(100% - 16px*2);
+    margin: 16px;
+  }
+}
