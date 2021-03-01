@@ -40,12 +40,18 @@
 
 @media screen and (max-width: 1023px) {
   .cover__image {
-    min-height: 480px;
+    min-height: 500px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover__image {
-    min-height: 200px;
+    min-height: 272px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .cover__image {
+    min-height: 216px;
   }
 }
