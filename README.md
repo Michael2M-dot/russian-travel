@@ -1,5 +1,14 @@
 # Проект 3: Путешествие по России
 
+
+<h2 align="left"> 🛠️ Технологический стек</h2>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="30" title="HTML">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="30" title="CSS">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="30" title="GIT">
+<p/>
+
+
 ### Основные технологии в работе.
 * Адаптивная верстка страницы с использованией медиа-запросов
 * Работа с макетами в Figma
